@@ -17,4 +17,13 @@ ZCZC W02 100 L02 Offline Class
 ZCZC W02 120 L12 Compiling Cross-Toolchain (LFS Chapter 5)
 ZCZC W02 100 L12 Cross compiling temporary tools (LFS Chapter 6)
 ZCZC W02 120 L12 Entering Chroot and Building Additional Temporary Tools (LFS Chapter 7)
- 
+ZCZC W03 5 L60 Update Virtual Box to latest version
+ZCZC W03 60 L13 Updating (compiling) latest kernel
+ZCZC W03 5 L13 Copy the helloworld-fuse
+ZCZC W03 10 L13 Read FUSE tutorial
+ZCZC W03 15 L13 BBFS related
+ZCZC W03 3 L13 Download Assignment Script
+ZCZC W03 2 L13 Download md5sum file from scele
+ZCZC W03 3 L13 Create W03.txt in ivanoxx@os2.cs.ui.ac.id:/home/zzzSHARE/ivanoxx
+ZCZC W03 10 L13 Create C program and Makefile, then compress it.
+
