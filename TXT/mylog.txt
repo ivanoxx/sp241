@@ -36,4 +36,11 @@ ZCZC W05 20 L15 Watch autotools tutorial
 ZCZC W05 20 L06 Read further documentation related to autoconf and automake 
 ZCZC W05 80 L15 Do Assignment #4 and also debugging
 ZCZC W05 5 L41 Updating mylog.txt
-
+ZCZC W06 15 L16 Updating debian guest
+ZCZC W06 3 L16 Download assignment script
+ZCZC W06 5 L16 Do POPQUIZ W06-1
+ZCZC W06 3 L16 Backup keys (POPQUIZ W06-2)
+ZCZC W06 10 L16 Do POPQUIZ W06-3 TARBALL
+ZCZC W06 110 L16 Docusaurus related
+ZCZC W06 15 L16 Writing WEEK06-VERIFY.sh
+ZCZC W06 15 L16 Writing WEEK06-GENERATE-200-FILES.sh
